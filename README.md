@@ -1,5 +1,5 @@
 
-<img src="img/m226_logo.jpg" alt="M2GARSS Logo" width="150">
+<p align="center"><img src="img/m226_logo.jpg" alt="M2GARSS Logo" width="170"></p>
 
 ---
 
